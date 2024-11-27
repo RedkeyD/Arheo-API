@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arheo.Domain", "Arheo.Domain\Arheo.Domain.csproj", "{B8C34CB9-DB60-459E-9FA1-677BD044E547}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arheo.Application", "Arheo.Application\Arheo.Application.csproj", "{C44B4E99-D8CA-4B9A-ABAC-49C6B6BCE0A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arheo.Infrastructure", "Arheo.Infrastructure\Arheo.Infrastructure.csproj", "{55ED6390-49F1-471E-BDA9-6C8A85EBFF3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arheo.Api", "Arheo.Api\Arheo.Api.csproj", "{EAC97E2A-EC70-450F-83A1-5F4019E9B81B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8C34CB9-DB60-459E-9FA1-677BD044E547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C34CB9-DB60-459E-9FA1-677BD044E547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C34CB9-DB60-459E-9FA1-677BD044E547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C34CB9-DB60-459E-9FA1-677BD044E547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C44B4E99-D8CA-4B9A-ABAC-49C6B6BCE0A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C44B4E99-D8CA-4B9A-ABAC-49C6B6BCE0A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C44B4E99-D8CA-4B9A-ABAC-49C6B6BCE0A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C44B4E99-D8CA-4B9A-ABAC-49C6B6BCE0A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55ED6390-49F1-471E-BDA9-6C8A85EBFF3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55ED6390-49F1-471E-BDA9-6C8A85EBFF3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55ED6390-49F1-471E-BDA9-6C8A85EBFF3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55ED6390-49F1-471E-BDA9-6C8A85EBFF3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC97E2A-EC70-450F-83A1-5F4019E9B81B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC97E2A-EC70-450F-83A1-5F4019E9B81B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC97E2A-EC70-450F-83A1-5F4019E9B81B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC97E2A-EC70-450F-83A1-5F4019E9B81B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {018BDABD-7AD7-4E29-B2E4-0025AAFF3370}
+	EndGlobalSection
+EndGlobal
